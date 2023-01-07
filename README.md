@@ -9,7 +9,7 @@ ROSI runs under Linux, Windows with Cygwin environment and SunOS.
 You need the following packages:
 * lscatgismo-1.4.tar.gz
 * ravar-0.8.8.tar.gz
-* rosi-0.19.0.tar.gz
+* rosi-0.20.0.tar.gz
 
 The following two packages are recommended but not necessary
 * spectra.tar.gz
