@@ -1,4 +1,4 @@
-# rosi
+# mc-xray-sim
 
 How to install ROSI Version 0.20.0
 
